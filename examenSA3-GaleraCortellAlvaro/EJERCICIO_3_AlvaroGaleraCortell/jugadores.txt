@@ -1,5 +1,9 @@
 Cucurella
 Pedri
 Manuel
-Pablo
-Carlos Sainz
+<<<<<<< HEAD
+Messi
+Fernano Alonso
+Mbappé
+Haaland
+>>>>>>> conflicto
